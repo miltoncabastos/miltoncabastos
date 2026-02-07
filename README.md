@@ -30,6 +30,10 @@ Sou um **Desenvolvedor de Software** apaixonado por tecnologia, focado no ecossi
 ---
 
 ### 📊 Estatísticas do GitHub
+![Linguagens mais usadas](https://github-readme-stats.vercel.app)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miltoncabastos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
